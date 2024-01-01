@@ -24,5 +24,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NadaAlinour&theme=dark&background=000000)](https://git.io/streak-stats)
