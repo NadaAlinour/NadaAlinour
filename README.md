@@ -1,7 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadaalinour&label=Profile%20views&color=268F77&style=flat" alt="nadaalinour" /> </p>
-
 # 💫 Hello 🙂
-🔭 I’m currently working on an e-commerce web application<br>🌱 I’m currently learning Angular, Data Science and Nodejs
+I'm a senior computer and communications engineering student passionate about learning new technologies and working in a team :)
+Currently learning Angular and taking a Data Science course. Continuing to work on my latest projects (such as [this e-commerce web application](https://github.com/NadaAlinour/freshcipe-react) to apply new things learned and to further improve their quality and value.
 
 
 # 💻 Tech Stack
