@@ -1,6 +1,6 @@
 # 💫 Hello 🙂
 I'm a senior computer and communications engineering student passionate about learning new technologies and working in a team :)
-Currently learning Angular and taking a Data Science course. Continuing to work on my latest projects (such as [this e-commerce web application](https://github.com/NadaAlinour/freshcipe-react) to apply new things learned and to further improve their quality and value.
+Currently learning Angular and taking a Data Science course. Continuing to work on my latest projects to apply new things learned and to further improve their quality and value.
 
 
 # 💻 Tech Stack
