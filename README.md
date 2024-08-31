@@ -1,6 +1,4 @@
 # Hello 🙂
-I'm a senior computer and communications engineering student and I enjoy learning new technologies and working in a team :)
-
 
 
 # 💻 Tech Stack
